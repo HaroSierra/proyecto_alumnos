@@ -2,3 +2,4 @@
   node_version = "16.8.0"
   command = "npm install --force && npm run build"
   publish = "build"
+
